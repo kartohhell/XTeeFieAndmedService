@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/Mangud/Side_prax1/services.wsdl" uri="wsdl/services.wsdl"/>
+    <system systemId="http://x-road.eu/xsd/xroad.xsd" uri="wsdl/x-road.eu/xsd/xroad.xsd"/>
+    <system systemId="http://www.w3.org/2009/01/xml.xsd" uri="wsdl/www.w3.org/2009/01/xml.xsd"/>
+    <system systemId="http://x-road.eu/xsd/identifiers.xsd" uri="wsdl/x-road.eu/xsd/identifiers.xsd"/>
+</catalog>
