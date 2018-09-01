@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Rasmus/Documents/NetBeansProjects/xTee/src/java/xTeeService/services%20(1).wsdl" uri="src/conf/xml-resources/web-services/xTeeFieService/wsdl/services%20(1).wsdl"/>
+    <system systemId="http://x-road.eu/xsd/xroad.xsd" uri="src/conf/xml-resources/web-services/xTeeFieService/wsdl/x-road.eu/xsd/xroad.xsd"/>
+    <system systemId="http://www.w3.org/2009/01/xml.xsd" uri="src/conf/xml-resources/web-services/xTeeFieService/wsdl/www.w3.org/2009/01/xml.xsd"/>
+    <system systemId="http://x-road.eu/xsd/identifiers.xsd" uri="src/conf/xml-resources/web-services/xTeeFieService/wsdl/x-road.eu/xsd/identifiers.xsd"/>
+</catalog>
